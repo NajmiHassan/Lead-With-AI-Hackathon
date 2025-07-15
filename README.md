@@ -153,21 +153,12 @@ We welcome contributions! Please feel free to submit issues, feature requests, o
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🆘 Support
 
 ### Common Issues
 - **API Key Error**: Ensure your Groq API key is correctly set in the `.env` file
 - **PDF Processing Issues**: Some PDFs may have complex formatting; try with different files
 - **Memory Issues**: Large PDFs may require more system memory
-
-### Getting Help
-- Check the [Issues](link-to-issues) page for common problems
-- Create a new issue for bugs or feature requests
-- Review the documentation for configuration options
 
 ## 🚀 Future Enhancements
 
@@ -187,5 +178,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Visualization by [Plotly](https://plotly.com/)
 
 ---
-
-**Note**: This tool is designed to assist with research analysis and should not replace critical thinking and proper academic evaluation. Always verify AI-generated insights with original sources.
