@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+python-dotenv
+PyPDF2
+pdfplumber
+faiss-cpu
+huggingface-hub
+sentence-transformers
+plotly
+matplotlib
+pandas
+numpy
